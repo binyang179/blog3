@@ -5,7 +5,7 @@ import com.my.blog.website.model.Vo.ContentVoExample;
 import com.my.blog.website.model.Vo.ContentVo;
 
 /**
- * Created by Administrator on 2017/3/13 013.
+ * Created by binyang179 on 2019/9/13 013.
  */
 public interface IContentService {
 

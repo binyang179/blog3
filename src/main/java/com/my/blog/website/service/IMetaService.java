@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 分类信息service接口
- * Created by BlueT on 2017/3/17.
+ * Created by binyang179 on 2019/7/17.
  */
 public interface IMetaService {
     /**

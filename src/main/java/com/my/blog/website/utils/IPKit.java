@@ -8,7 +8,7 @@ import java.util.Enumeration;
 
 /**
  * ip工具类
- * Created by BlueT on 2017/3/9.
+ * Created by binyang179 on 2019/7/9.
  */
 public class IPKit {
     /**
